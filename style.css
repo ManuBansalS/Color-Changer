@@ -1,0 +1,66 @@
+body {
+    margin: 120px 0px;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px 0px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+span {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+span#Black {
+    background-color: black;
+}
+
+span#Red {
+    background-color: red;
+}
+
+span#Blue {
+    background-color: blue;
+}
+
+span#Green {
+    background-color: green;
+}
+
+span#Brown {
+    background-color: brown;
+}
+
+span#Grey {
+    background-color: grey;
+}
+
+div.msg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
