@@ -67,13 +67,7 @@ To run this project locally:
 
 Click on any of the colored buttons (e.g., 🔴 Red or 🔵 Blue) and see the background instantly change.
 
----
 
-## 📸 Screenshots
-
-> *(Add screenshots if available)*
-
----
 
 ## 🙌 Author
 
